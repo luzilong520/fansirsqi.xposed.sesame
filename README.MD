@@ -1,18 +1,21 @@
 # Sesame-TK
 
-forked from `https://github.com/TKaxv-7S/Sesame-TK` 
+> forked from `https://github.com/TKaxv-7S/Sesame-TK` 
+> 
+>source code `https://github.com/Fansirsqi/Sesame-TK`
 
-我是 fan，这是我修改后的版本
+I am Fan, and this is the revised version.
 
-您可以fork源码自行编译打包
+You can fork the [source code](https://github.com/Fansirsqi/Sesame-TK) to compile and package it yourself.
 
-我比较三流，所以代码质量可能比较差，欢迎提出建议（但我不确定我能做什么）
+I am somewhat of a novice, so the quality of the code might not be top-notch. Suggestions are welcome (though I’m not sure what I can do about them).
 
-如果你们喜欢这个项目，欢迎pr
+If you like this project, feel free to submit a PR.
 
-谢谢你们
+Thank you all.
 
-这是预览图
+Below is a preview image.
+
 
 ![Screenshot_2024-11-20-19-40-19-594_fansirsqi.xposed.sesame-edit.jpg](https://pic2.ziyuan.wang/user/fansir/2024/11/Screenshot_2024-11-20-19-40-19-594_fansirsqi.xposed.sesame-edit_66964347f6135.jpg)
 
