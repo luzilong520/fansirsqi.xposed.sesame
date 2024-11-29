@@ -1,5 +1,12 @@
 # Sesame-TK
 
+
+[![License](https://img.shields.io/github/license/Fansirsqi/Sesame-TK.svg)](LICENSE)
+[![Latest Release](https://img.shields.io/github/release/Fansirsqi/Sesame-TK.svg)](../../releases)
+[![All Releases Download](https://img.shields.io/github/downloads/Fansirsqi/Sesame-TK/total.svg)](../../releases)
+
+
+
 ## forked from [TKaxv-7S/Sesame-TK](https://github.com/TKaxv-7S/Sesame-TK) <https://github.com/TKaxv-7S/Sesame-TK>
 
 ### [项目地址](https://github.com/Fansirsqi/Sesame-TK) <https://github.com/Fansirsqi/Sesame-TK>
