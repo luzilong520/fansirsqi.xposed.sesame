@@ -11,6 +11,8 @@
 [![Telegram](https://img.shields.io/badge/Sesame--TK-nul?&logo=Telegram&label=Telegram-Channel&labelColor=fff&link=https%3A%2F%2Ft.me%2Ffansirsqi_xposed_sesame)](https://t.me/fansirsqi_xposed_sesame)
 
 
+</center>
+
 
 ## forked from [TKaxv-7S](https://github.com/TKaxv-7S/Sesame-TK)
 
@@ -42,7 +44,9 @@
 </div>
 
 </details>
-</center>
+
+
+
 <strong style="color:red;">
 
 ## 免责声明
