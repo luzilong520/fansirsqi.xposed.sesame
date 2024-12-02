@@ -1,15 +1,20 @@
 # Sesame-TK
 
+<center>
 
-[![License](https://img.shields.io/github/license/Fansirsqi/Sesame-TK.svg)](LICENSE)
-[![Latest Release](https://img.shields.io/github/release/Fansirsqi/Sesame-TK.svg)](../../releases)
-[![All Releases Download](https://img.shields.io/github/downloads/Fansirsqi/Sesame-TK/total.svg)](../../releases)
-
+![Sesame-TK](https://socialify.git.ci/Fansirsqi/Sesame-TK/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FFansirsqi%2FSesame-TK%2Frefs%2Fheads%2Fmain%2Fapp%2Fsrc%2Fmain%2Fassets%2Fweb%2FSesame-TK-logo.svg&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
 
-## forked from [TKaxv-7S/Sesame-TK](https://github.com/TKaxv-7S/Sesame-TK) <https://github.com/TKaxv-7S/Sesame-TK>
+[![License](https://img.shields.io/github/license/Fansirsqi/Sesame-TK?labelColor=fff&label=License&logo=gnuprivacyguard)](https://raw.githubusercontent.com/Fansirsqi/Sesame-TK/refs/heads/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/release/Fansirsqi/Sesame-TK?labelColor=fff&label=Releases&logo=gitlfs)](../../releases)
+[![All Releases Download](https://img.shields.io/github/downloads/Fansirsqi/Sesame-TK/total?labelColor=fff&label=Downloads&logo=codefresh)](../../releases)
+[![Telegram](https://img.shields.io/badge/Sesame--TK-nul?&logo=Telegram&label=Telegram-Channel&labelColor=fff&link=https%3A%2F%2Ft.me%2Ffansirsqi_xposed_sesame)](https://t.me/fansirsqi_xposed_sesame)
 
-### [项目地址](https://github.com/Fansirsqi/Sesame-TK) <https://github.com/Fansirsqi/Sesame-TK>
+</center>
+
+## forked from [TKaxv-7S](https://github.com/TKaxv-7S/Sesame-TK)
+
+##  [本项目地址](https://github.com/Fansirsqi/Sesame-TK)
 
 感谢蚂蚁森林对绿化事业的贡献。快速收取蚂蚁森林能量，也为祖国的绿化事业出一份微薄之力~
 
