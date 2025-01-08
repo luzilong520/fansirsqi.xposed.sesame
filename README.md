@@ -11,6 +11,10 @@
 [![Telegram](https://img.shields.io/badge/Sesame--TK-nul?&logo=Telegram&label=Telegram-Channel&labelColor=fff&link=https%3A%2F%2Ft.me%2Ffansirsqi_xposed_sesame)](https://t.me/fansirsqi_xposed_sesame)
 
 
+
+> 墙内更新[戳这里](https://fansirs.lanzoue.com/b011kv6pwd) 密码:`9527`
+
+
 </center>
 
 
